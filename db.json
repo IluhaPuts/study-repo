@@ -1,15 +1,14 @@
   
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "start": [
+    { "city": "Ufa", name: "school103" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "subjects": [
+    { "id": 1, "name": "algebra" },
+    { "id": 2, "name": "physics" },
+    { "id": 3, "name": "geography" },
+    { "id": 4, "name": "russian language" },
+    { "id": 5, "name": "biology" },
+    { "id": 6, "name": "mechatronics" }
+  ]
 }
