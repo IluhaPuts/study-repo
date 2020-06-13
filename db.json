@@ -1,8 +1,9 @@
   
 {
-  "start": [
-    { "city": "Ufa", "name": "school103" }
-  ],
+  "start": { 
+    "city": "Ufa", 
+    "name": "school103"
+  },
   "subjects": [
     { "id": 1, "name": "algebra" },
     { "id": 2, "name": "physics" },
