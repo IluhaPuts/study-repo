@@ -1,7 +1,7 @@
   
 {
   "start": [
-    { "city": "Ufa", name: "school103" }
+    { "city": "Ufa", "name": "school103" }
   ],
   "subjects": [
     { "id": 1, "name": "algebra" },
